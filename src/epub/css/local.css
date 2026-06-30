@@ -125,6 +125,10 @@ span.elision{
 [epub|type~="epigraph"] span.elision{
 	font-style: normal;
 }
+
+[epub|type~="epigraph"] em{
+	font-style: normal;
+}
 /* End epigraphs in section headers */
 
 /* Begin drama */
