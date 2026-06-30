@@ -202,3 +202,18 @@ table[epub|type~="z3998:drama"]{
 	}
 }
 /* End drama */
+
+/* Begin Letter CSS */
+[epub|type~="z3998:letter"] header{
+	text-align: right;
+}
+
+footer{
+	margin-top: 1em;
+	text-align: right;
+}
+
+[epub|type~="z3998:letter"] header + p{
+	text-indent: 0;
+}
+/* End Letter CSS */
