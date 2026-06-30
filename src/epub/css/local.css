@@ -218,6 +218,7 @@ footer{
 }
 
 /* letters that are telegrams */
-.telegram{ font-variant: all-small-caps; }
-
+.telegram{
+	font-variant: all-small-caps;
+}
 /* End Letter CSS */
