@@ -216,4 +216,8 @@ footer{
 [epub|type~="z3998:letter"] header + p{
 	text-indent: 0;
 }
+
+/* letters that are telegrams */
+.telegram{ font-variant: all-small-caps; }
+
 /* End Letter CSS */
