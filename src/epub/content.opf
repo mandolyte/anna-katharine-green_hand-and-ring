@@ -33,27 +33,28 @@
 		<dc:subject id="subject-1">Detective and mystery stories</dc:subject>
 		<meta property="authority" refines="#subject-1">LCSH</meta>
 		<meta property="term" refines="#subject-1">sh85037260</meta>
-		<meta property="se:subject">Fiction</meta>
-		<meta property="se:subject">Mystery</meta>
+		<meta property="schema:genre">Fiction</meta>
+		<meta property="schema:genre">Mystery</meta>
 		<meta id="collection-1" property="belongs-to-collection">Mr. Gryce</meta>
 		<meta property="collection-type" refines="#collection-1">series</meta>
-		<meta property="group-position" refines="#collection-1">4</meta>        <dc:description id="description">DESCRIPTION</dc:description>
+		<meta property="group-position" refines="#collection-1">4</meta>
+		<dc:description id="description">DESCRIPTION</dc:description>
 		<meta id="long-description" property="se:long-description" refines="#description">
 			LONG_DESCRIPTION
 		</meta>
 		<dc:language>en-US</dc:language>
 		<dc:source>https://www.gutenberg.org/ebooks/31681</dc:source>
-		<dc:source>https://archive.org/details/handring00greeuoft/</dc:source>
-		<meta property="se:word-count">WORD_COUNT</meta>
+		<dc:source>https://archive.org/details/handring00greeuoft</dc:source>
+		<meta property="schema:wordCount">WORD_COUNT</meta>
 		<meta property="se:reading-ease.flesch">READING_EASE</meta>
 		<meta property="se:url.vcs.github">https://github.com/standardebooks/anna-katharine-green_hand-and-ring</meta>
 		<dc:creator id="author">Anna Katharine Green</dc:creator>
 		<meta property="file-as" refines="#author">Green, Anna Katharine</meta>
 		<meta property="se:name.person.full-name" refines="#author">Anna Katharine Green</meta>
 		<meta property="se:url.encyclopedia.wikipedia" refines="#author">https://en.wikipedia.org/wiki/Anna_Katharine_Green</meta>
-		<meta property="se:url.authority.nacoaf" refines="#author">http://id.loc.gov/authorities/names/n50046883</meta>
+		<meta property="se:url.authority.nacoaf" refines="#author">https://id.loc.gov/authorities/names/n50046883.html</meta>
 		<meta property="role" refines="#author" scheme="marc:relators">aut</meta>
-        <meta property="role" refines="#author" scheme="marc:relators">ill</meta>
+		<meta property="role" refines="#author" scheme="marc:relators">ill</meta>
 		<dc:contributor id="artist">Joseph H. Hidley</dc:contributor>
 		<meta property="file-as" refines="#artist">Hidley, Joseph H.</meta>
 		<meta property="se:url.authority.nacoaf" refines="#artist">https://id.loc.gov/authorities/names/nr92022610.html</meta>
@@ -76,6 +77,7 @@
 		<meta property="role" refines="#producer-1" scheme="marc:relators">mrk</meta>
 		<meta property="role" refines="#producer-1" scheme="marc:relators">pfr</meta>
 		<meta property="role" refines="#producer-1" scheme="marc:relators">tyg</meta>
+		<meta property="role" refines="#producer-1" scheme="marc:relators">wat</meta>
 	</metadata>
 	<manifest>
 		<item href="css/core.css" id="core.css" media-type="text/css"/>
