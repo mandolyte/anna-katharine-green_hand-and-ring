@@ -168,3 +168,7 @@ footer{
 	font-variant: all-small-caps;
 }
 /* End Letter CSS */
+
+blockquote > p > time{
+	font-variant: small-caps;
+}

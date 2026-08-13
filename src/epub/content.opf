@@ -38,7 +38,9 @@
 		<meta id="collection-1" property="belongs-to-collection">Mr. Gryce</meta>
 		<meta property="collection-type" refines="#collection-1">series</meta>
 		<meta property="group-position" refines="#collection-1">4</meta>
-		<dc:description id="description"><p>A woman’s dying utterance “Hand and Ring!” casts suspicions on everyone near the scene of the murder except the true murderer.</p></dc:description>
+		<dc:description id="description">
+			&lt;p&gt;A woman’s dying utterance “Hand and Ring!” casts suspicions on everyone near the scene of the murder except the true murderer.&lt;/p&gt;
+		</dc:description>
 		<meta id="long-description" property="se:long-description" refines="#description">
 			<p>Two young detectives are repeatedly misdirected by clues in a murder case resulting in multiple false accusations. Many layers of secrets must be uncovered and the true nature of the relationships among the suspects must be discovered before the true murderer is revealed. In the end, it is Detective Gryce who helps his colleagues’ blindness to the obvious.</p>
 			<p>The author, <a href="https://standardebooks.org/ebooks/anna-katharine-green">Anna Katherine Green</a>, is known as the “mother of the detective novel”: her first novel predates <a href="https://standardebooks.org/ebooks/arthur-conan-doyle">Arthur Cannon Doyle’s</a> first <a href="https://standardebooks.org/collections/sherlock-holmes">Sherlock Holmes</a> novel by nearly a decade. Her detective stories have the classic elements of attention to clues, police procedure, and brilliant insight into human nature.</p>
