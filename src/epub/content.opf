@@ -39,11 +39,9 @@
 		<meta property="collection-type" refines="#collection-1">series</meta>
 		<meta property="group-position" refines="#collection-1">4</meta>
 		<dc:description id="description">A woman’s dying utterance “Hand and Ring!” casts suspicions on everyone near the scene of the murder except the true murderer.</dc:description>
-		<meta id="long-description" property="se:long-description" refines="#description">
-			&lt;p&gt;Two young detectives are repeatedly misdirected by clues in a murder case resulting in multiple false accusations. Many layers of secrets must be uncovered and the true nature of the relationships among the suspects must be discovered before the true murderer is revealed. In the end, it is Detective Gryce who helps his colleagues’ blindness to the obvious.&lt;/p&gt;
+		<meta id="long-description" property="se:long-description" refines="#description">&lt;p&gt;Two young detectives are repeatedly misdirected by clues in a murder case resulting in multiple false accusations. Many layers of secrets must be uncovered and the true nature of the relationships among the suspects must be discovered before the true murderer is revealed. In the end, it is Detective Gryce who helps his colleagues’ blindness to the obvious.&lt;/p&gt;
 			&lt;p&gt;The author, &lt;a href="https://standardebooks.org/ebooks/anna-katharine-green"&gt;Anna Katherine Green&lt;/a&gt;, is known as the “mother of the detective novel”: her first novel predates &lt;a href="https://standardebooks.org/ebooks/arthur-conan-doyle"&gt;Arthur Cannon Doyle’s&lt;/a&gt; first &lt;a href="https://standardebooks.org/collections/sherlock-holmes"&gt;Sherlock Holmes&lt;/a&gt; novel by nearly a decade. Her detective stories have the classic elements of attention to clues, police procedure, and brilliant insight into human nature.&lt;/p&gt;
-			&lt;p&gt;This is the fourth in the &lt;a href="https://standardebooks.org/collections/mr-gryce"&gt;Detective Gryce&lt;/a&gt; series, which totals thirteen novels. In this story, Detective Gryce does not come into the picture until near the end, where he plays a critical role identifying a key overlooked suspect.&lt;/p&gt;
-		</meta>
+			&lt;p&gt;This is the fourth in the &lt;a href="https://standardebooks.org/collections/mr-gryce"&gt;Detective Gryce&lt;/a&gt; series, which totals thirteen novels. In this story, Detective Gryce does not come into the picture until near the end, where he plays a critical role identifying a key overlooked suspect.&lt;/p&gt;</meta>
 		<dc:language>en-US</dc:language>
 		<dc:source>https://www.gutenberg.org/ebooks/31681</dc:source>
 		<dc:source>https://archive.org/details/handring00greeuoft</dc:source>
